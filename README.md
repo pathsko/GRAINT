@@ -2,8 +2,6 @@
 
 Este proyecto implementa un algoritmo genético guiado por gramática para encontrar **grupos de interés** en un conjunto de datos basado en diferencias significativas de correlaciones entre variables.
 
-📓 Proyecto desarrollado en un cuaderno de Google Colab:  
-[Accede al Notebook](https://colab.research.google.com/drive/124fEF-KhpDtGB6XHJKp7AXAKHFV6uN3y?usp=sharing)
 
 ## 📌 Descripción del Problema
 
